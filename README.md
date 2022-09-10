@@ -1,7 +1,7 @@
 # React App - Bad Api
 
 
-Deploy app link https://hem7513.github.io/my-app/
+Deploy app link https://hem7513.github.io/React-APP/
 
 
 Reference 
